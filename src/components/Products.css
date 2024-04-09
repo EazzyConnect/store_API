@@ -1,0 +1,33 @@
+#productContainer {
+ height: 300px;
+ border-radius: 10px;
+ box-shadow: 0 0 10px rgb(63, 63, 63);
+ padding: 5px;
+}
+
+#productContainerTop {
+ height: 70%;
+
+}
+
+#productContainerTop img {
+ width: 100px;
+ height: 100px;
+
+}
+
+#productContainerTop h1 {
+ font-size: medium;
+}
+
+#productContainerBottom {
+ height: 30%;
+}
+
+#productContainerBottom h3 {
+ font-size: small;
+}
+
+#productContainerBottom p {
+ font-size: smaller;
+}
